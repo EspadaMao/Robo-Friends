@@ -1,0 +1,20 @@
+.search-box-wrapper {
+	  margin: 0px auto;
+	  padding: 10px 0px 10px 0px;
+	  width: 100%;
+	  text-align: center; 
+	  background-color: #124;
+}
+.search-box {
+	color: black;
+	background: white;
+	border: 10px inset red;
+	padding: 10px;
+	border-radius: 15px;
+	transition: 0.25s;
+	text-align: center;
+}
+
+.search-box:focus {
+	transform: scale(1.2);
+}
