@@ -9,7 +9,7 @@ const CardList = ({robots}) => {
 	});
 	return (
 
-		<div class='grid-wrapper'>
+		<div className='grid-wrapper'>
 			{cardsArray}
 		</div>
 		);
