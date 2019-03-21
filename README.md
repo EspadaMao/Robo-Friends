@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Robo-Friends
+
+It's a good exercise to test my JavaScript, css, html and React knowledge!
+
 ## Available Scripts
 
 In the project directory, you can run:
