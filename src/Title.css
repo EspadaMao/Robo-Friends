@@ -1,19 +1,23 @@
 .title-wrapper {
-	font-family: 'Baloo Chettan', cursive;
-	background: linear-gradient(to right, rgb(236, 0, 191), rgb(0, 67, 233));
-	border-radius: 30px;
-	margin: 20px 20px 70px 20px;
+	margin-bottom: 10px;
 	padding: 20px;
+	-webkit-box-shadow: 10px 10px 7px 6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 7px 6px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 7px 6px rgba(0,0,0,0.75);
 	transition: 1s ease;
 }
 
 .title {
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 200;
+	color: #16BFFD; 
 	text-align: center;
 	transition: 0.5s ease;
+	cursor: default;
 }
 
 .title:hover {
 
-	transform: rotate(-7deg);
+	transform: translate(0px, 10px);
 
 }
