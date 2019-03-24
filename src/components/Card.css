@@ -8,9 +8,9 @@
 }
 
 .card-wrapper {
-background: #8A2387;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: #8A2387;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 	-webkit-box-shadow: 10px 10px 7px 6px rgba(0,0,0,0.75);
 	-moz-box-shadow: 10px 10px 7px 6px rgba(0,0,0,0.75);
@@ -24,10 +24,10 @@ background: linear-gradient(to bottom, #F27121, #E94057, #8A2387); /* W3C, IE 10
 	font-weight: 500px;
 	cursor: default;
 	transition: 0.75s;
+	outline: none;
 }
 
 .card-wrapper:hover {
-	border-radius: 20px;
 	transform: translate(0px, -50px);
 }
 

@@ -1,7 +1,6 @@
 body {
   margin: 0;
   padding: 0;
-  /*font-family: 'Lobster', cursive;*/
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(to right, #1100c6, #5b00bf, #7e00b8, #9700b2, #ac01ac);
