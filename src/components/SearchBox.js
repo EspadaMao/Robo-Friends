@@ -12,9 +12,7 @@ const SearchBox = ({ searchfield, searchChange }) => {
 			placeholder='search for robot friends'
 			onChange={ searchChange }
 			/>
-			<a className='search-btn' href="#"> 
-				<i className="fas fa-search"></i>
-			</a>
+			<i className="search-btn fas fa-search"></i>
 		</div>
 	</div>
 	);
